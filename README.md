@@ -88,6 +88,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### [Обратная связь](https://docs.google.com/forms/d/1gQ_rOuFfYJ7AvUGBEnEJUVn7Ciue_k1AWtlW7e7fqQY/edit)
 
-### [Статьи](https://kravtsov-viktor.github.io/java/articles)
+### [Статьи](https://kravtsov-viktor.github.io/articles)
 
-### [Сайты](https://kravtsov-viktor.github.io/java/sites)
+### [Сайты](https://kravtsov-viktor.github.io/sites)
