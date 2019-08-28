@@ -2,11 +2,17 @@
 
 Данный курс ориентирован на людей уже имеющих опыт программирования на других языках.
 
+
+
+## Тесты / анкеты
+
 [Анкета-знакомство](https://docs.google.com/forms/d/1UTr07y5TyoAsOWu3g4Yuvqsjs7-XmTBOBRh6S_ItVio/edit)
+
+## Занятия / презентации
 
 [Презентация 1: Знакомство](https://drive.google.com/open?id=1jvcZdpf91DYPdoyQtFTUv3f3jmcvWbnd)
 
-[Презентация 2](ya.ru)
+[Презентация 2: Java как язык и платформа](ya.ru)
 
 [Презентация 3](ya.ru)
 
