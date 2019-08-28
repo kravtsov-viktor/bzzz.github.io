@@ -5,7 +5,7 @@
 [Анкета-знакомство](https://docs.google.com/forms/d/1UTr07y5TyoAsOWu3g4Yuvqsjs7-XmTBOBRh6S_ItVio/edit)
 
 
-[Презентация 1: Знакомство](ya.ru)
+[Презентация 1: Знакомство](https://drive.google.com/open?id=1jvcZdpf91DYPdoyQtFTUv3f3jmcvWbnd)
 
 [Презентация 2](ya.ru)
 
