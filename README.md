@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Добро пожаловать на учебный курс по программированию Java
+
+Вообще-то, данный курс ориентирован на людей уже имеющих опыт программирования на других языках.
+
+[Анкета-знакомство](https://docs.google.com/forms/d/1UTr07y5TyoAsOWu3g4Yuvqsjs7-XmTBOBRh6S_ItVio/edit)
 
 You can use the [editor on GitHub](https://github.com/kravtsov-viktor/bzzz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
