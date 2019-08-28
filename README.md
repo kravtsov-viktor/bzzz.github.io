@@ -4,6 +4,18 @@
 
 [Анкета-знакомство](https://docs.google.com/forms/d/1UTr07y5TyoAsOWu3g4Yuvqsjs7-XmTBOBRh6S_ItVio/edit)
 
+
+[Презентация 1: Знакомство](ya.ru)
+
+[Презентация 2](ya.ru)
+
+[Презентация 3](ya.ru)
+
+[Презентация 4](ya.ru)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kravtsov-viktor/bzzz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
