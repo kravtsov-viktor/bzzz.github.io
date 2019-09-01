@@ -9,7 +9,7 @@
 
 ## Занятия / презентации
 
-[Презентация 1: Знакомство](https://drive.google.com/open?id=1jvcZdpf91DYPdoyQtFTUv3f3jmcvWbnd)
+[Презентация 1: Знакомство и введение](https://drive.google.com/open?id=1jvcZdpf91DYPdoyQtFTUv3f3jmcvWbnd)
 
 ---------------------------
 
