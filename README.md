@@ -4,6 +4,8 @@
 
 В этом же курсе рассмотрим простые вещи и примеры касательно Spring / Spring Boot.
 
+Если останется время рассмотрим простые примеры Vaadin.
+
 ## Тесты / анкеты
 
 [Анкета-знакомство](https://docs.google.com/forms/d/1UTr07y5TyoAsOWu3g4Yuvqsjs7-XmTBOBRh6S_ItVio/edit)
