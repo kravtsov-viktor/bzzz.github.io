@@ -20,7 +20,7 @@
 
 ## Материалы для самостоятельного изучения
 
-[metanit.com](https://metanit.com/java/tutorial/)
+[metanit.com - кратко емко лаконично по-русски](https://metanit.com/java/tutorial/)
 
 ---------------------------
 
