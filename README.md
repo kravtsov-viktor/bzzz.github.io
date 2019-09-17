@@ -20,11 +20,11 @@
 
 ## Материалы для самостоятельного изучения
 
-[metanit.com : емко, лаконично, структурированно, по-русски](https://metanit.com/java/tutorial/)
+[metanit.com](https://metanit.com/java/tutorial/)
 
-[java-online.ru : емко, лаконично, структурированно, по-русски](http://java-online.ru/java-basic.xhtml)
+[java-online.ru](http://java-online.ru/java-basic.xhtml)
 
-[proglang.su : емко, лаконично, структурированно, по-русски](http://proglang.su/java)
+[proglang.su](http://proglang.su/java)
 
 ---------------------------
 
