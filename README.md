@@ -16,7 +16,7 @@
 
 ## Домашние задания
 
-[Задание 1:](https://onedrive.live.com/view.aspx?cid=97e625b0643ca372&page=view&resid=97E625B0643CA372!6781&parId=97E625B0643CA372!6747&authkey=!ABBOeoXaDpIWPbk&app=Word)
+[Задание 1: Консольное CRUD сложных данных](https://onedrive.live.com/view.aspx?cid=97e625b0643ca372&page=view&resid=97E625B0643CA372!6781&parId=97E625B0643CA372!6747&authkey=!ABBOeoXaDpIWPbk&app=Word)
 
 ---------------------------
 
