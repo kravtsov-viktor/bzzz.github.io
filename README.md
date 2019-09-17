@@ -22,6 +22,10 @@
 
 [metanit.com : емко, лаконично, структурированно, по-русски](https://metanit.com/java/tutorial/)
 
+[java-online.ru : емко, лаконично, структурированно, по-русски](http://java-online.ru/java-basic.xhtml)
+
+[proglang.su : емко, лаконично, структурированно, по-русски](http://proglang.su/java)
+
 ---------------------------
 
 # Материалы аналогичного курса 2018 года
