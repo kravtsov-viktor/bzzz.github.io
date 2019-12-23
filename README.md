@@ -68,8 +68,6 @@
 
 ---------------------------
 
-### [Баллы](https://docs.google.com/spreadsheets/d/1L6mPsBtCBjMALAK_fewlrGtnhtj4XClf-fpe1FamiIE/edit?usp=sharing)
-
 ### [Обратная связь](https://docs.google.com/forms/d/1gQ_rOuFfYJ7AvUGBEnEJUVn7Ciue_k1AWtlW7e7fqQY/edit)
 
 ### [Статьи](https://kravtsov-viktor.github.io/articles)
