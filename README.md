@@ -10,6 +10,8 @@
 
 [Анкета-знакомство](https://docs.google.com/forms/d/1UTr07y5TyoAsOWu3g4Yuvqsjs7-XmTBOBRh6S_ItVio/edit)
 
+[Финальный-опрос](https://docs.google.com/forms/d/1a1-U-IauOfVh4p6JiHyRuB_T_P9aOGKVUBJ_MnOyqz8/edit)
+
 ## Занятия / презентации
 
 [Презентация 1: Знакомство и введение](https://drive.google.com/open?id=1jvcZdpf91DYPdoyQtFTUv3f3jmcvWbnd)
